@@ -1,0 +1,14 @@
+C:\Users\KELVINMATHEUSLOPESCA\Desktop\Kelvin\atividade-01\bin\Debug\net8.0\atividade-01.exe
+C:\Users\KELVINMATHEUSLOPESCA\Desktop\Kelvin\atividade-01\bin\Debug\net8.0\atividade-01.deps.json
+C:\Users\KELVINMATHEUSLOPESCA\Desktop\Kelvin\atividade-01\bin\Debug\net8.0\atividade-01.runtimeconfig.json
+C:\Users\KELVINMATHEUSLOPESCA\Desktop\Kelvin\atividade-01\bin\Debug\net8.0\atividade-01.dll
+C:\Users\KELVINMATHEUSLOPESCA\Desktop\Kelvin\atividade-01\bin\Debug\net8.0\atividade-01.pdb
+C:\Users\KELVINMATHEUSLOPESCA\Desktop\Kelvin\atividade-01\obj\Debug\net8.0\atividade-01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KELVINMATHEUSLOPESCA\Desktop\Kelvin\atividade-01\obj\Debug\net8.0\atividade-01.AssemblyInfoInputs.cache
+C:\Users\KELVINMATHEUSLOPESCA\Desktop\Kelvin\atividade-01\obj\Debug\net8.0\atividade-01.AssemblyInfo.cs
+C:\Users\KELVINMATHEUSLOPESCA\Desktop\Kelvin\atividade-01\obj\Debug\net8.0\atividade-01.csproj.CoreCompileInputs.cache
+C:\Users\KELVINMATHEUSLOPESCA\Desktop\Kelvin\atividade-01\obj\Debug\net8.0\atividade-01.dll
+C:\Users\KELVINMATHEUSLOPESCA\Desktop\Kelvin\atividade-01\obj\Debug\net8.0\refint\atividade-01.dll
+C:\Users\KELVINMATHEUSLOPESCA\Desktop\Kelvin\atividade-01\obj\Debug\net8.0\atividade-01.pdb
+C:\Users\KELVINMATHEUSLOPESCA\Desktop\Kelvin\atividade-01\obj\Debug\net8.0\atividade-01.genruntimeconfig.cache
+C:\Users\KELVINMATHEUSLOPESCA\Desktop\Kelvin\atividade-01\obj\Debug\net8.0\ref\atividade-01.dll

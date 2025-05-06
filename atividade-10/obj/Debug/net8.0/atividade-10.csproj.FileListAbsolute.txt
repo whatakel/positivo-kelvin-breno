@@ -1,0 +1,15 @@
+C:\Users\KELVINMATHEUSLOPESCA\Desktop\Kelvin\GitHub\positivo-kelvin-breno\atividade-10\bin\Debug\net8.0\atividade-10.exe
+C:\Users\KELVINMATHEUSLOPESCA\Desktop\Kelvin\GitHub\positivo-kelvin-breno\atividade-10\bin\Debug\net8.0\atividade-10.deps.json
+C:\Users\KELVINMATHEUSLOPESCA\Desktop\Kelvin\GitHub\positivo-kelvin-breno\atividade-10\bin\Debug\net8.0\atividade-10.runtimeconfig.json
+C:\Users\KELVINMATHEUSLOPESCA\Desktop\Kelvin\GitHub\positivo-kelvin-breno\atividade-10\bin\Debug\net8.0\atividade-10.dll
+C:\Users\KELVINMATHEUSLOPESCA\Desktop\Kelvin\GitHub\positivo-kelvin-breno\atividade-10\bin\Debug\net8.0\atividade-10.pdb
+C:\Users\KELVINMATHEUSLOPESCA\Desktop\Kelvin\GitHub\positivo-kelvin-breno\atividade-10\obj\Debug\net8.0\atividade-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KELVINMATHEUSLOPESCA\Desktop\Kelvin\GitHub\positivo-kelvin-breno\atividade-10\obj\Debug\net8.0\atividade-10.AssemblyInfoInputs.cache
+C:\Users\KELVINMATHEUSLOPESCA\Desktop\Kelvin\GitHub\positivo-kelvin-breno\atividade-10\obj\Debug\net8.0\atividade-10.AssemblyInfo.cs
+C:\Users\KELVINMATHEUSLOPESCA\Desktop\Kelvin\GitHub\positivo-kelvin-breno\atividade-10\obj\Debug\net8.0\atividade-10.csproj.CoreCompileInputs.cache
+C:\Users\KELVINMATHEUSLOPESCA\Desktop\Kelvin\GitHub\positivo-kelvin-breno\atividade-10\obj\Debug\net8.0\atividade-10.sourcelink.json
+C:\Users\KELVINMATHEUSLOPESCA\Desktop\Kelvin\GitHub\positivo-kelvin-breno\atividade-10\obj\Debug\net8.0\atividade-10.dll
+C:\Users\KELVINMATHEUSLOPESCA\Desktop\Kelvin\GitHub\positivo-kelvin-breno\atividade-10\obj\Debug\net8.0\refint\atividade-10.dll
+C:\Users\KELVINMATHEUSLOPESCA\Desktop\Kelvin\GitHub\positivo-kelvin-breno\atividade-10\obj\Debug\net8.0\atividade-10.pdb
+C:\Users\KELVINMATHEUSLOPESCA\Desktop\Kelvin\GitHub\positivo-kelvin-breno\atividade-10\obj\Debug\net8.0\atividade-10.genruntimeconfig.cache
+C:\Users\KELVINMATHEUSLOPESCA\Desktop\Kelvin\GitHub\positivo-kelvin-breno\atividade-10\obj\Debug\net8.0\ref\atividade-10.dll
